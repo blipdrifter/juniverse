@@ -1,2 +1,2 @@
-# juniverse
-mirror of Across the Juniverse
+# Across the Juniverse
+Can't touch this.
